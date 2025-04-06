@@ -1,9 +1,9 @@
 ## Developers
 <p align="center">
-  Sebastián Burgos barrera. <br>
-  Leandro Gaviria Angulo.<br>
-  Maria Martinez Herazo <br>
-  Camila Rivera Torres <br>
+Maria Martinez Herazo  <br>
+Camila Rivera Torres <br>
+Nixón Padilla <br>
+
 </p>
 
 
